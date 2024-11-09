@@ -4,3 +4,7 @@ venv/
 # Archivos de sistema comunes
 __pycache__/
 *.pyc
+
+sshkeygit
+
+sshkeygit.pub
